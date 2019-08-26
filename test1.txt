@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is C2D1-68F0
+
+ Directory of C:\Users\waich\Desktop\MyProject
+
+26-Aug-19  05:26 PM    <DIR>          .
+26-Aug-19  05:26 PM    <DIR>          ..
+26-Aug-19  05:26 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  80,155,365,376 bytes free
